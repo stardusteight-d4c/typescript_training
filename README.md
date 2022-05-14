@@ -16,7 +16,6 @@
 <li> The ReadonlyArray type;
 <li> Adding trades to our list;
 <li> Defensive Programming.
-  
 <br> <br>
 <li> React inspiration for creating declarative and dynamic templates;
 <li> DOM through template;
@@ -35,8 +34,7 @@
 <li> Uncommenting compiled code;
 <li> Enabling strictNullChecks;
 <li> How to suppress errors, when it makes sense, resulting from strictNullChecks;
-<li> Benefits of strictNullChecks in controlling the flow of your application.
-  
+<li> Benefits of strictNullChecks in controlling the flow of your application.  
 <br> <br>
 <li> Project introduction and structure;
 <li> Method decorator;
